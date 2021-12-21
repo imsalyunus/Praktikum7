@@ -12,5 +12,5 @@ Untuk membuat objek dari sebuah class, maka kita dapat memanggil nama class deng
 Langkah terakhir adalah mengakses atribut objek dengan menggunakan operator titik. Variabel kelas bisa diakses dengan menggunakan nama kelasnya.<br />
 ![](/atribut1.PNG)
 <br />
-<b>Hasilnya:</b>
+<b>Hasilnya:</b><br />
 ![](/output.PNG)
