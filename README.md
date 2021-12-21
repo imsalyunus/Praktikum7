@@ -6,9 +6,9 @@ Tugas Pertemuan ke-12 (Operasi pada String)
 <br />
 <b>Instansiasi Objek</b> <br />
 Untuk membuat objek dari sebuah class, maka kita dapat memanggil nama class dengan argumen sesuai dengan fungsi __init__() pada saat kita mendefinisikannya.
-![](/objek.PNG)
+![](/objek1.PNG)
 <br />
 <b>Mengakses Attribut Objek</b> <br />
 Langkah terakhir adalah mengakses atribut objek dengan menggunakan operator titik. Variabel kelas bisa diakses dengan menggunakan nama kelasnya.
-![](/atribut.PNG)
+![](/atribut1.PNG)
 
